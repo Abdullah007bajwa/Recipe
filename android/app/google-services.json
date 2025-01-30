@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721450526925",
+    "project_id": "recipe-47cf3",
+    "storage_bucket": "recipe-47cf3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721450526925:android:6c177d91a814e84cd72184",
+        "android_client_info": {
+          "package_name": "com.example.recipie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGnOF4WK3_nIMYKnY_kSvFMcKACQxEEsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
